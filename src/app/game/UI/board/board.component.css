@@ -1,0 +1,5 @@
+#board {
+  width: 800px;
+  border:4px solid #FF0000;
+  display: block;
+}
